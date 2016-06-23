@@ -1,0 +1,29 @@
+commit aabd351ffe695d711395165f2128ea1e0db27c57
+Author: Oscar <millan.rivas.oscar@gmail.com>
+Date:   Thu Jun 23 11:31:56 2016 -0600
+
+    Footer agregado
+
+commit 4dfc81d863874640a7e0e671afade3ac2bd83d42
+Author: Oscar <millan.rivas.oscar@gmail.com>
+Date:   Thu Jun 23 11:27:57 2016 -0600
+
+    Agregue imagenes
+
+commit 12d94dc0a8f33d6553fe6445dbe54a2477a2fdcb
+Author: Oscar <millan.rivas.oscar@gmail.com>
+Date:   Thu Jun 23 11:14:16 2016 -0600
+
+    Bootstrap
+
+commit 3b2bae8913ac272ac310db3af683345dea7e1b4f
+Author: Oscar <millan.rivas.oscar@gmail.com>
+Date:   Thu Jun 23 11:09:03 2016 -0600
+
+    Encabezado
+
+commit ff6379b338b5b4957aa29cce90620c9534c45d1a
+Author: Oscar <millan.rivas.oscar@gmail.com>
+Date:   Thu Jun 23 11:01:40 2016 -0600
+
+    Estructura base del proyecto
